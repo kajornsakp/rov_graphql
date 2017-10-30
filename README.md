@@ -2,13 +2,13 @@
 
 This project is for testing graphql with express server
 
-###Requirements
+### Requirements
 - graphql
 - graphql-tools
 - express
 - express-graphql
 
-###How to setup
+### How to setup
 
 ```
 clone this project
@@ -16,7 +16,7 @@ npm install
 npm start
 ```
 
-###Schema
+### Schema
 ```
 type Hero {
     id : ID!
@@ -31,7 +31,7 @@ type Query {
 }
 ```
 
-###Resolver
+### Resolver
 ```
 Query:{
         heroes : () => {
@@ -47,6 +47,7 @@ Query:{
 
 ```
 
-##TODO
+## TODO
+
 -[ ] add db (mongodb)
 -[ ] test with apollo client(iOS,Android,Web)
