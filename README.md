@@ -49,6 +49,6 @@ Query:{
 
 ## TODO
 
--[ ] add db (mongodb)
+- [ ] add db (mongodb)
 
--[ ] test with apollo client(iOS,Android,Web)
+- [ ] test with apollo client(iOS,Android,Web)
