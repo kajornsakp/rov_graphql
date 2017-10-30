@@ -10,6 +10,8 @@ type Hero {
 
 type Query {
     heroes : [Hero]
+    heroWithName(name : String!) : Hero
+    heroWithRole(role : String!) : [Hero]
 }
 `
 
