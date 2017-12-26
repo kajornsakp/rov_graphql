@@ -1,399 +1,429 @@
 [
-    {
-      "id": 1,
-      "name": "Airi",
-      "role": [
-        "Fighter",
-        "Assasin"
-      ]
-    },
-    {
-      "id": 2,
-      "name": "Aleister",
-      "role": [
-        "Mage"
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Alice",
-      "role": [
-        "Support"
-      ]
-    },
-    {
-      "id": 4,
-      "name": "Arduin",
-      "role": [
-        "Tank",
-        "Fighter"
-      ]
-    },
-    {
-      "id": 5,
-      "name": "Astrid",
-      "role": [
-        "Tank",
-        "Fighter"
-      ]
-    },
-    {
-      "id": 6,
-      "name": "Azzen'Ka",
-      "role": [
-        "Mage"
-      ]
-    },
-    {
-      "id": 7,
-      "name": "Batman",
-      "role": [
-        "Fighter",
-        "Assasin"
-      ]
-    },
-    {
-      "id": 8,
-      "name": "Butterfly",
-      "role": [
-        "Fighter",
-        "Assasin"
-      ]
-    },
-    {
-      "id": 9,
-      "name": "Chaugnar",
-      "role": [
-        "Tank",
-        "Support"
-      ]
-    },
-    {
-      "id": 10,
-      "name": "Cresht",
-      "role": [
-        "Tank",
-        "Support"
-      ]
-    },
-    {
-      "id": 11,
-      "name": "Diao Chan",
-      "role": [
-        "Mage"
-      ]
-    },
-    {
-      "id": 12,
-      "name": "Fennik",
-      "role": [
-        "Carry"
-      ]
-    },
-    {
-      "id": 13,
-      "name": "Gildur",
-      "role": [
-        "Tank",
-        "Mage"
-      ]
-    },
-    {
-      "id": 14,
-      "name": "Grakk",
-      "role": [
-        "Tank",
-        "Mage"
-      ]
-    },
-    {
-      "id": 15,
-      "name": "Ignis",
-      "role": [
-        "Mage"
-      ]
-    },
-    {
-      "id": 16,
-      "name": "Ilumia",
-      "role": [
-        "Mage"
-      ]
-    },
-    {
-      "id": 17,
-      "name": "Jinna",
-      "role": [
-        "Mage"
-      ]
-    },
-    {
-      "id": 18,
-      "name": "Kahlii",
-      "role": [
-        "Mage"
-      ]
-    },
-    {
-      "id": 19,
-      "name": "Kil'Groth",
-      "role": [
-        "Fighter"
-      ]
-    },
-    {
-      "id": 20,
-      "name": "Kriknak",
-      "role": [
-        "Fighter",
-        "Assasin"
-      ]
-    },
-    {
-      "id": 21,
-      "name": "Krixi",
-      "role": [
-        "Mage"
-      ]
-    },
-    {
-      "id": 22,
-      "name": "Lauriel",
-      "role": [
-        "Mage",
-        "Assasin"
-      ]
-    },
-    {
-      "id": 23,
-      "name": "Lu Bu",
-      "role": [
-        "Fighter"
-      ]
-    },
-    {
-      "id": 24,
-      "name": "Lumburr",
-      "role": [
-        "Tank",
-        "Support"
-      ]
-    },
-    {
-      "id": 25,
-      "name": "Maloch",
-      "role": [
-        "Tank",
-        "Fighter"
-      ]
-    },
-    {
-      "id": 26,
-      "name": "Mganga",
-      "role": [
-        "Mage",
-        "Support"
-      ]
-    },
-    {
-      "id": 27,
-      "name": "Mina",
-      "role": [
-        "Tank"
-      ]
-    },
-    {
-      "id": 28,
-      "name": "Mortos",
-      "role": [
-        "Tank",
-        "Fighter"
-      ]
-    },
-    {
-      "id": 29,
-      "name": "Murad",
-      "role": [
-        "Fighter",
-        "Assasin"
-      ]
-    },
-    {
-      "id": 30,
-      "name": "Nakroth",
-      "role": [
-        "Fighter",
-        "Assasin"
-      ]
-    },
-    {
-      "id": 31,
-      "name": "Natalya",
-      "role": [
-        "Mage"
-      ]
-    },
-    {
-      "id": 32,
-      "name": "Omega",
-      "role": [
-        "Tank"
-      ]
-    },
-    {
-      "id": 33,
-      "name": "Ormarr",
-      "role": [
-        "Fighter"
-      ]
-    },
-    {
-      "id": 34,
-      "name": "Payna",
-      "role": [
-        "Support"
-      ]
-    },
-    {
-      "id": 35,
-      "name": "Preyta",
-      "role": [
-        "Mage"
-      ]
-    },
-    {
-      "id": 36,
-      "name": "Raz",
-      "role": [
-        "Mage",
-        "Assasin"
-      ]
-    },
-    {
-      "id": 37,
-      "name": "Ryoma",
-      "role": [
-        "Fighter",
-        "Assasin"
-      ]
-    },
-    {
-      "id": 38,
-      "name": "Skud",
-      "role": [
-        "Tank",
-        "Fighter"
-      ]
-    },
-    {
-      "id": 39,
-      "name": "Slimz",
-      "role": [
-        "Carry"
-      ]
-    },
-    {
-      "id": 40,
-      "name": "Taara",
-      "role": [
-        "Tank",
-        "Fighter"
-      ]
-    },
-    {
-      "id": 41,
-      "name": "Tel'Annas",
-      "role": [
-        "Carry"
-      ]
-    },
-    {
-      "id": 42,
-      "name": "Thane",
-      "role": [
-        "Tank",
-        "Fighter"
-      ]
-    },
-    {
-      "id": 43,
-      "name": "The Joker",
-      "role": [
-        "Carry"
-      ]
-    },
-    {
-      "id": 44,
-      "name": "Toro",
-      "role": [
-        "Tank"
-      ]
-    },
-    {
-      "id": 45,
-      "name": "Valhein",
-      "role": [
-        "Carry"
-      ]
-    },
-    {
-      "id": 46,
-      "name": "Veera",
-      "role": [
-        "Mage"
-      ]
-    },
-    {
-      "id": 47,
-      "name": "Violet",
-      "role": [
-        "Carry"
-      ]
-    },
-    {
-      "id": 48,
-      "name": "WuKong",
-      "role": [
-        "Fighter",
-        "Assasin"
-      ]
-    },
-    {
-      "id": 49,
-      "name": "Yorn",
-      "role": [
-        "Carry"
-      ]
-    },
-    {
-      "id": 50,
-      "name": "Zanis",
-      "role": [
-        "Fighter"
-      ]
-    },
-    {
-      "id": 51,
-      "name": "Zephys",
-      "role": [
-        "Fighter",
-        "Assasin"
-      ]
-    },
-    {
-      "id": 52,
-      "name": "Zill",
-      "role": [
-        "Mage",
-        "Assasin"
-      ]
-    },
-    {
-      "id": 53,
-      "name": "Zuka",
-      "role": [
-        "Fighter",
-        "Assasin"
-      ]
-    }
-  ]
+  {
+    "id": 1,
+    "name": "Airi",
+    "role": [
+      "Fighter",
+      "Assasin"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Aleister",
+    "role": [
+      "Mage"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Alice",
+    "role": [
+      "Support"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Arduin",
+    "role": [
+      "Tank",
+      "Fighter"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Astrid",
+    "role": [
+      "Tank",
+      "Fighter"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Azzen'Ka",
+    "role": [
+      "Mage"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Batman",
+    "role": [
+      "Fighter",
+      "Assasin"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Butterfly",
+    "role": [
+      "Fighter",
+      "Assasin"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Chaugnar",
+    "role": [
+      "Tank",
+      "Support"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Cresht",
+    "role": [
+      "Tank",
+      "Support"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Diao Chan",
+    "role": [
+      "Mage"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Fennik",
+    "role": [
+      "Carry"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Gildur",
+    "role": [
+      "Tank",
+      "Mage"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Grakk",
+    "role": [
+      "Tank",
+      "Mage"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Ignis",
+    "role": [
+      "Mage"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Ilumia",
+    "role": [
+      "Mage"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Jinna",
+    "role": [
+      "Mage"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Kahlii",
+    "role": [
+      "Mage"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Kil'Groth",
+    "role": [
+      "Fighter"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Kriknak",
+    "role": [
+      "Fighter",
+      "Assasin"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Krixi",
+    "role": [
+      "Mage"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Lauriel",
+    "role": [
+      "Mage",
+      "Assasin"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Lu Bu",
+    "role": [
+      "Fighter"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Lumburr",
+    "role": [
+      "Tank",
+      "Support"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Maloch",
+    "role": [
+      "Tank",
+      "Fighter"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Mganga",
+    "role": [
+      "Mage",
+      "Support"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Mina",
+    "role": [
+      "Tank"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Mortos",
+    "role": [
+      "Tank",
+      "Fighter"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Murad",
+    "role": [
+      "Fighter",
+      "Assasin"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Nakroth",
+    "role": [
+      "Fighter",
+      "Assasin"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Natalya",
+    "role": [
+      "Mage"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Omega",
+    "role": [
+      "Tank"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Ormarr",
+    "role": [
+      "Fighter"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Payna",
+    "role": [
+      "Support"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Preyta",
+    "role": [
+      "Mage"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Raz",
+    "role": [
+      "Mage",
+      "Assasin"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Ryoma",
+    "role": [
+      "Fighter",
+      "Assasin"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Skud",
+    "role": [
+      "Tank",
+      "Fighter"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Slimz",
+    "role": [
+      "Carry"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Taara",
+    "role": [
+      "Tank",
+      "Fighter"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Tel'Annas",
+    "role": [
+      "Carry"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Thane",
+    "role": [
+      "Tank",
+      "Fighter"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "The Joker",
+    "role": [
+      "Carry"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Toro",
+    "role": [
+      "Tank"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Valhein",
+    "role": [
+      "Carry"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Veera",
+    "role": [
+      "Mage"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Violet",
+    "role": [
+      "Carry"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "WuKong",
+    "role": [
+      "Fighter",
+      "Assasin"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Yorn",
+    "role": [
+      "Carry"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Zanis",
+    "role": [
+      "Fighter"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Zephys",
+    "role": [
+      "Fighter",
+      "Assasin"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Zill",
+    "role": [
+      "Mage",
+      "Assasin"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Zuka",
+    "role": [
+      "Fighter",
+      "Assasin"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Superman",
+    "role": [
+      "Fighter",
+      "Tank"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Wonder Woman",
+    "role": [
+      "Fighter"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Xenial",
+    "role": [
+      "Tank",
+      "Support"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Moren",
+    "role": [
+      "Carry"
+    ]
+  }
+]
